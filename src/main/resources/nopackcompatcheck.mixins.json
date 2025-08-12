@@ -2,7 +2,8 @@
   "required": true,
   "minVersion": "0.8",
   "package": "com.wudji.nopackcompatcheck.mixin",
-  "compatibilityLevel": "JAVA_21",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "nopackcompatcheck.refmap.json",
   "client": [
     "MixinPackCompatibility"
   ],

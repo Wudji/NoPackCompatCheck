@@ -7,7 +7,7 @@ import org.spongepowered.asm.mixin.injection.At;
 
 @Mixin(PackCompatibility.class)
 public class MixinPackCompatibility {
-    @ModifyReturnValue(method = "isCompatible",at = @At("RETURN"))
+    @ModifyReturnValue(method = "isCompatible()Z",at = @At("RETURN"))
     private boolean alwaysCompatible(boolean ori) {
         return true;
     }
