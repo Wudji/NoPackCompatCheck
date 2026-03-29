@@ -16,8 +16,8 @@ Since version 1.20, Mojang has begun frequently updating the resource pack forma
 
 ![before install](https://s2.loli.net/2025/08/12/Wh6cv1kyM2dFlQ8.png)
 
-| Link Type     | Link                                                         |
-| ------------- | ------------------------------------------------------------ |
+| Link Type     | Link                                                                                                     |
+| ------------- |----------------------------------------------------------------------------------------------------------|
 | CurseForge    | [mc-mods/nopackcompatcheck - CurseForge](https://www.curseforge.com/minecraft/mc-mods/nopackcompatcheck) |
-| Modrinth      | [NoPackCompatCheck - Minecraft Mod](https://modrinth.com/mod/nopackcompatcheck) |
-| MCMod (zh_cn) | Under Review                                                 |
+| Modrinth      | [NoPackCompatCheck - Minecraft Mod](https://modrinth.com/mod/nopackcompatcheck)                          |
+| MCMod (zh_cn) | [https://www.mcmod.cn/class/21433.html](https://www.mcmod.cn/class/21433.html) |
